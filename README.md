@@ -19,9 +19,9 @@ A Cars landing page, with some cool and advanced features. A React JS landing pa
 # ⚡ Quick Start
 
 ```bash
-git clone
+git clone https://github.com/MO-GBR/q7cars_landing_page.git
 
-cd
+cd q7cars_landing_page
 
 npm install
 
